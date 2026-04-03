@@ -1,0 +1,6 @@
+sub1=float(input("1st sub: "))
+sub2=float(input("2nd sub: "))
+sub3=float(input("3rd sub: "))
+sub4=float(input("4th sub: "))
+sub5=float(input("5th sub: "))
+print("GPA: ",(sub1+sub2+sub3+sub4+sub5)/5)
